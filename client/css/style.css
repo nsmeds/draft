@@ -1,0 +1,15 @@
+/*.root {
+    font-family: 'Helvetica', 'sans-serif';
+    padding: 20px;
+    width: 600px;
+    border: 1px dotted #333;
+};
+.editor {
+    cursor: text;
+    min-height: 80px;
+    padding: 10px;
+};
+.button {
+    margin-top: 10px;
+    text-align: center;
+}*/
