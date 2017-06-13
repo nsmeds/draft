@@ -9,7 +9,29 @@
     min-height: 80px;
     padding: 10px;
 };
-.button {
-    margin-top: 10px;
+*/
+
+.root,
+.editor {
     text-align: center;
-}*/
+    font-family: 'Lato', sans-serif;
+}
+
+.editor {
+    margin: 1em auto;
+    border-radius: 5px;
+    height: 8em;
+    width: 20em;
+    border: 1px solid grey;
+    padding: 6px;
+    text-align: left;
+    font-size: 0.9em;
+    font-weight: 400;
+}
+
+.button {
+    border-radius: 5px;
+    border: 1px solid grey;
+    background-color: white;
+    /*margin-top: 10px;*/
+}
